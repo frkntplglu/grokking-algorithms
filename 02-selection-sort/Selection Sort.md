@@ -38,7 +38,7 @@ Eleman ekleme ve silme işlemlerinde linked list performans olarak çok daha üs
 
 ### Selection Sort
 
-Selection Sort aslında çok hızlı çalışmasa da yaygın kullanılan bir sıralama algoritmasıdır. Bildiğim kadarıyla 2 farklı şekilde implement edilebiliyor. Birinde en büyük veya en küçük elemanı bulup mevcut array içerisinde swap yaparken, diğer yöntemde de sırayla yine en büyük veya en küçük eleman bulunup bu eleman farklı bir arraye eklenerek yeni ve sıralanmış bir array oluşturulur. Kitap 2. yöntemi kullandığı ve ben de bunu daha anlaşılır bulduğum için örnek kodu da bu şekilde yazdım. Ayrıca selection sort ve diğer bir çok algoritmanın görsel olarak nasıl çalıştığını görmek isterseniz  aşağıdaki siteye göz atabilirsiniz. Okuduğunuz için teşekkür ederim bir sonraki bölümde görüşmek üzere.
+Selection Sort aslında çok hızlı çalışmasa da **(O(n<sup>2</sup>))** yaygın kullanılan bir sıralama algoritmasıdır. Bildiğim kadarıyla 2 farklı şekilde implement edilebiliyor. Birinde en büyük veya en küçük elemanı bulup mevcut array içerisinde swap yaparken, diğer yöntemde de sırayla yine en büyük veya en küçük eleman bulunup bu eleman farklı bir arraye eklenerek yeni ve sıralanmış bir array oluşturulur. Kitap 2. yöntemi kullandığı ve ben de bunu daha anlaşılır bulduğum için örnek kodu da bu şekilde yazdım. Ayrıca selection sort ve diğer bir çok algoritmanın görsel olarak nasıl çalıştığını görmek isterseniz  aşağıdaki siteye göz atabilirsiniz. Okuduğunuz için teşekkür ederim bir sonraki bölümde görüşmek üzere.
 
 [https://visualgo.net/en]: 
 
